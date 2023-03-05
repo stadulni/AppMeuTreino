@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		3F58EBA629B55CFD00AFD39B /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F58EBA529B55CFD00AFD39B /* Login.storyboard */; };
+=======
+		3F58EBA829B55D6900AFD39B /* Criação de treinos.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F58EBA729B55D6900AFD39B /* Criação de treinos.storyboard */; };
+>>>>>>> Feature/Criação-de-Treinos
 		886614D629B4DAAA0067C0E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886614D529B4DAAA0067C0E5 /* AppDelegate.swift */; };
 		886614D829B4DAAA0067C0E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886614D729B4DAAA0067C0E5 /* SceneDelegate.swift */; };
 		886614DA29B4DAAA0067C0E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886614D929B4DAAA0067C0E5 /* ViewController.swift */; };
@@ -17,7 +21,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		3F58EBA529B55CFD00AFD39B /* Login.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
+=======
+		3F58EBA729B55D6900AFD39B /* Criação de treinos.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Criação de treinos.storyboard"; sourceTree = "<group>"; };
+>>>>>>> Feature/Criação-de-Treinos
 		886614D229B4DAAA0067C0E5 /* appmeutreinoteste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appmeutreinoteste.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		886614D529B4DAAA0067C0E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		886614D729B4DAAA0067C0E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +68,7 @@
 			children = (
 				3F58EBA529B55CFD00AFD39B /* Login.storyboard */,
 				886614D529B4DAAA0067C0E5 /* AppDelegate.swift */,
+				3F58EBA729B55D6900AFD39B /* Criação de treinos.storyboard */,
 				886614D729B4DAAA0067C0E5 /* SceneDelegate.swift */,
 				886614D929B4DAAA0067C0E5 /* ViewController.swift */,
 				886614DB29B4DAAA0067C0E5 /* Main.storyboard */,
@@ -132,6 +141,7 @@
 				886614E229B4DAAA0067C0E5 /* LaunchScreen.storyboard in Resources */,
 				886614DF29B4DAAA0067C0E5 /* Assets.xcassets in Resources */,
 				886614DD29B4DAAA0067C0E5 /* Main.storyboard in Resources */,
+				3F58EBA829B55D6900AFD39B /* Criação de treinos.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
